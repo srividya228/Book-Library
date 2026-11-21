@@ -1,16 +1,23 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Book Library Management System
+A simple and responsive Book Library Management System built using React.js, JavaScript, HTML, and CSS.
+Features
+- Add new books with title, author, and genre.
+- Display the list of books.
+- View book details with cover images.
+- Edit existing book details.
+- Delete books from the library.
+- Search books by title or author.
+- Filter books by genre and reading status.
+- Store book details using Local Storage.
+Technologies Used
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+Live Demo
+https://book-library-blond-three.vercel.app
+GitHub Repository
+https://github.com/srividya228/Book-Library
+Author
+Srividya
